@@ -20,8 +20,6 @@ begin
 	using PlutoUI
 	Pkg.add("SampledSignals")
 	using SampledSignals
-	Pkg.add("Plots")
-	using Plots
 	Pkg.add("LibSndFile")
 	using LibSndFile
 	Pkg.add("FileIO")
